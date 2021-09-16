@@ -22,5 +22,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Iphone 12:
 
-<img src="http://i.imgur.com/eLqjYFT.gifv" width=250><br>
+<img src="https://github.com/Tenzin-Pema/flixapp/blob/main/flixapp.gif" width=250><br>
 
