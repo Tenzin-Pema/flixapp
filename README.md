@@ -14,7 +14,7 @@
 ### App Walkthrough GIF
 
 
-<img src="" width=250><br>
+<img src="https://github.com/Tenzin-Pema/flixapp/blob/main/flixapp2.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.# Flix-App
